@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Challenge One Encritador de texto</title>
+  <link href="./assets/css/styles.css" rel="stylesheet" />
+  <!--Fonts inter de Google-->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet" />
+  
+</head>
+
+<body>
+  <main class="content-fluid">
+    <div class="btn_challange" class="container-fluid">
+      <img src="./assets/img/logo.Alura-Challenges.png" alt="Logo de Alura" id="logoSearch" class="logoAlura" />
+      <div class="targetas">
+        <textarea id="mensaje" class="text-area" cols="30" rows="8" placeholder="Ingrese su texto aquí"></textarea>
+        <div>
+          <h6 class="informacion">Solo letra en minúscula y sin acentos</h6>
+        </div>
+        <button id="encriptarMensaje" class="encriptar" onclick="encriptarMensaje()">Encritador</button>
+        <button id="desencriptarMensaje" class="desencriptar" onclick="desencriptarMensaje()">Desencriptar</button>
+      </div>
+    </div>
+    <section class="botones">
+      <textarea id="resultado" class="mensajes" cols="23" rows="16"></textarea>
+      <div>
+        <button id="copiarMensaje" class="copiar" onclick="copiarMensaje()" style="display: none">
+          Copiar
+        </button>
+      </div>
+      <div>
+    </section>
+  </main>
+  <!-- SweetAlert -->
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <!--Jquery-->
+  <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
+  <script src="index.js"></script>
+  <div>
+    <footer>
+      <p>Copyright © 2023 Leder Castillo, versión 1.0.0.2</p>
+    </footer>
+  </div>
+</body>
+
+</html>
