@@ -8,4 +8,4 @@ No puede enviar palabras en mayúscula, no utilizar en su texto caracteres espec
 Atreves de la librería de SweetAlert2 empleamos la comunicación con el usuario donde atreves del fron end  tiene la advertencias y sugerencia para encriptar exitosamente el texto. 
 
 
-Tecnología: HTML5,JAVASCRIPT,CSS
+Tecnología: HTML5,JavaScript,CSS
