@@ -17,7 +17,7 @@ Atreves de la librería de SweetAlert2 empleamos la comunicación con el usuario
 
 <img width="789" alt="No se acepta números" src="https://user-images.githubusercontent.com/125621711/235381060-ec33011d-fc00-4bce-8bac-5a6f94f1fc11.png">
 
-
+VALIDACIÓN NO SE ADMITEN CARACTERES ESPECIALES NI ACENTOS
 
 <img width="874" alt="No se acepta caracteres especiales" src="https://user-images.githubusercontent.com/125621711/235381091-49c2c7cb-0585-4633-985e-3b73928e6a1d.png">
 
