@@ -7,19 +7,23 @@ Buscando así construir una herramienta que permita cifrar los mensajes de texto
 No puede enviar palabras en mayúscula, no utilizar en su texto caracteres especiales ni acentos, se exigen no enviar dígitos numéricos.
 Atreves de la librería de SweetAlert2 empleamos la comunicación con el usuario donde atreves del fron end  tiene la advertencias y sugerencia para encriptar exitosamente el texto. 
 
+VALIDACION DE CAMPO EN VACIOS 
+
 <img width="912" alt="validacion de texto" src="https://user-images.githubusercontent.com/125621711/235381001-28965e45-469d-42c0-b26c-e6a810f4c996.png">
 
-
+VALIDACIÓN NO SE ADMITE LETRAS EN MAYÚSCULA
 
 <img width="836" alt="No se admite letrás en mayúscula" src="https://user-images.githubusercontent.com/125621711/235381026-f954916f-595f-4dd4-ae8d-c14523f499f2.png">
 
-
+VALIDACIÓN NO ACEPTAN DÍGITOS NÚMERICOS
 
 <img width="789" alt="No se acepta números" src="https://user-images.githubusercontent.com/125621711/235381060-ec33011d-fc00-4bce-8bac-5a6f94f1fc11.png">
+
 
 VALIDACIÓN NO SE ADMITEN CARACTERES ESPECIALES NI ACENTOS
 
 <img width="874" alt="No se acepta caracteres especiales" src="https://user-images.githubusercontent.com/125621711/235381091-49c2c7cb-0585-4633-985e-3b73928e6a1d.png">
+
 
 COPIADO EL TEXTO ÉXITOSAMENTE
 
